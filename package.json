@@ -36,8 +36,9 @@
     ]
   },
   "devDependencies": {
+    "node-sass": "^5.0.0",
+    "postcss": "^8.2.1",
     "prettier": "^2.2.1",
-    "scss": "^0.2.4",
     "stylelint": "^13.8.0"
   }
 }
